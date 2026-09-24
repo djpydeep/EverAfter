@@ -1,0 +1,6 @@
+{
+  "name": "EverAfter Weddings - Wedding Planner & Vendor Booking",
+  "description": "Luxury wedding planning platform featuring full-service planning, real wedding galleries, and an interactive vendor booking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
